@@ -25,6 +25,8 @@ Dashboard visualisasi data COVID-19 dapat dilihat melalui tautan berikut:
 
 👉 [Lihat Dashboard COVID-19](https://lookerstudio.google.com/embed/reporting/e4fcfc25-1f75-408e-af16-a24340c52d0e/page/g5E1D)
 
+![Dashboard](https://github.com/user-attachments/assets/19224bb0-4fb0-4726-a587-c96f7b4d977a)
+
 ## ▶️ Cara Menjalankan
 Clone repositori ini:
 ```bash
