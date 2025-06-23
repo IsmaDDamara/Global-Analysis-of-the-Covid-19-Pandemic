@@ -33,6 +33,13 @@ The COVID-19 data visualization dashboard is available at the following link:
 
 Clone this repository:
 
+<<<<<<< HEAD
+=======
+![Dashboard](https://github.com/user-attachments/assets/19224bb0-4fb0-4726-a587-c96f7b4d977a)
+
+## ▶️ Cara Menjalankan
+Clone repositori ini:
+>>>>>>> 1bfe71889f3f59c52294f6c931b3b395276d4695
 ```bash
 git clone https://github.com/IsmaDDamara/Global-Analysis-of-the-Covid-19-Pandemic.git
 cd notebook
